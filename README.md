@@ -1,1 +1,3 @@
-# devops-aula02
+#jennifer aniston
+#jordana brewster
+#charlize theron
